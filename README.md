@@ -14,5 +14,3 @@ pandas
 seaborn
 scikit-learn
 ```
-
-scikit-learn is useful for working with the data.
