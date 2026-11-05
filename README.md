@@ -56,7 +56,3 @@ metrics, and comparison baseline rather than for the custom training loop.
 - The notebook does not yet include automated tests or repeated-seed analysis.
 - Future work may extract the model into a tested Python module before adding
   logistic regression, decision trees, and neural-network fundamentals.
-
-## License
-
-Released under the [MIT License](LICENSE).
